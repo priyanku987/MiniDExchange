@@ -1,0 +1,15 @@
+{
+    "eslint.validate": ["javascript", "javascriptreact", "html"],
+    "eslint.options": {
+      "extensions": [".html", ".js", ".jsx"]
+    },
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "peacock.color": "#d08268"
+  }
